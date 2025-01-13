@@ -15,12 +15,7 @@
       "to": "#8B55FF"
     }
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
+
   "anchors": [
     {
       "name": "Twitter",
