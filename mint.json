@@ -15,7 +15,6 @@
       "to": "#8B55FF"
     }
   },
-
   "anchors": [
     {
       "name": "Twitter",
@@ -52,7 +51,8 @@
         "essentials/navigation",
         "essentials/reusable-snippets"
       ]
-    ],
+    }
+  ],
   "footerSocials": {
     "x": "https://x.com/coffeedotfun"
   }
