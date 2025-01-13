@@ -29,8 +29,8 @@
     },
     {
       "name": "App",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "icon": "app",
+      "url": ""
     }
   ],
   "navigation": [
