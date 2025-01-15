@@ -36,9 +36,9 @@
     {
       "group": "Get Started",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "welcome",
+        "vision",
+        "tokenomics"
       ]
     },
     {
